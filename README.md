@@ -1,2 +1,2 @@
 # CyberGlove-Vizard
-Interfacing CyberGlove with Vizard
+Useful resources for Interfacing CyberGlove with Vizard
